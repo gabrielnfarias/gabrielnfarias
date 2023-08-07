@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Navarro Farias , A full stack Developer from Brazil</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Navarro Farias </h1>
+<h2 align="center"> A full stack Developer from Brazil </h2>
 <h3 align="center">Want to contact me ? here is my email: <a>gabrielnavarrofarias@gmail.com</a></h3>
 
 <h3 align="left">Connect with me:</h3>
